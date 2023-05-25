@@ -1,0 +1,15 @@
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\bin\Debug\net7.0\Clases1.exe
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\bin\Debug\net7.0\Clases1.deps.json
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\bin\Debug\net7.0\Clases1.runtimeconfig.json
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\bin\Debug\net7.0\Clases1.dll
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\bin\Debug\net7.0\Clases1.pdb
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.csproj.AssemblyReference.cache
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.AssemblyInfoInputs.cache
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.AssemblyInfo.cs
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.csproj.CoreCompileInputs.cache
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.dll
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\refint\Clases1.dll
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.pdb
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\Clases1.genruntimeconfig.cache
+C:\Users\Computacion\Documents\POO\Tema2\Clases1\obj\Debug\net7.0\ref\Clases1.dll
